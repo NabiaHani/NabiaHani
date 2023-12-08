@@ -1,4 +1,5 @@
-# NabiaHani
+![logo](https://github.com/NabiaHani/NabiaHani/blob/main/banner.png)
+
 
 <h1 align="center">Hi 👋, I'm Nabia Hani</h1>
 <h3 align="center">A passionate Frontend Developer from Pakistan</h3>
