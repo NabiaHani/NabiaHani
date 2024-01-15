@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nabiahani" alt="nabiahani" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/quddus_nabya3" target="blank"><img src="https://img.shields.io/twitter/follow/quddus_nabya3?logo=twitter&style=for-the-badge" alt="quddus_nabya3" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://nabiaportfolio.000webhostapp.com/](https://nabiaportfolio.000webhostapp.com/)
 
@@ -16,6 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/quddus_nabya3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="quddus_nabya3" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nabiahani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nabiahani" height="30" width="40" /></a>
 <a href="https://kaggle.com/nabiahani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nabiahani" height="30" width="40" /></a>
 <a href="https://instagram.com/codewithnabia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codewithnabia" height="30" width="40" /></a>
