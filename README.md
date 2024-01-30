@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/quddus_nabya3" target="blank"><img src="https://img.shields.io/twitter/follow/quddus_nabya3?logo=twitter&style=for-the-badge" alt="quddus_nabya3" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://nabiaportfolio.000webhostapp.com/](https://nh-portfolio.000webhostapp.com/)
+- 👨‍💻 All of my projects are available at [https://nabiahani.github.io/nabiahani-portfolio/](https://nabiahani.github.io/nabiahani-portfolio/)
 
 - 📫 How to reach me **nabya.quddus1809@yahoo.com**
 
