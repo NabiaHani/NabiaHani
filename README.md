@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nabiahani.github.io/NABIAHANI-PORTFOLIO/](https://nabiahani.github.io/NABIAHANI-PORTFOLIO/)
 
-- 📫 How to reach me **nabya.quddus1809@yahoo.com**
+- 📫 How to reach me **nabiahani02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
