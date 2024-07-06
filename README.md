@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Web and App Development**
 
-- 👨‍💻 All of my projects are available at [https://nabiaportfolio.000webhostapp.com/](https://nabiahani.github.io/NABIAHANI-PORTFOLIO/)
+- 👨‍💻 All of my projects are available at [https://nabiahani.github.io/NABIAHANI-PORTFOLIO/](https://nabiahani.github.io/NABIAHANI-PORTFOLIO/)
 
 - 📫 How to reach me **nabiahani02@gmail.com**
 
