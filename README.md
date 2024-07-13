@@ -1,7 +1,9 @@
 ![logo](https://github.com/NabiaHani/NabiaHani/blob/main/githubbanner.jpg)
 
 
-<h1 align="center">Hi 👋, I'm Nabia Hani</h1>
+
+
+<h1 align="center">Hi 👋, I'm Nabia Hanii</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabiahani&label=Profile%20views&color=0e75b6&style=flat" alt="nabiahani" /> </p>
