@@ -1,4 +1,4 @@
-![logo](https://github.com/NabiaHani/NabiaHani/blob/main/githubbanner.)
+![logo](https://github.com/NabiaHani/NabiaHani/blob/main/githubbanner.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Nabia Hani</h1>
